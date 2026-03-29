@@ -8,7 +8,7 @@
 
 ## Programming Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sotanengel&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs?username=sotanengel&show_icons=true&locale=en&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sotanengel&theme=default)
 
 <img src="https://skillicons.dev/icons?i=python,rust,wasm" /> <br /><br />
